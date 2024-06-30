@@ -8,6 +8,10 @@
 1. Ollama 
 (AI tool designed to enable users to set up and execute large language models like Llama 2 locally)
 
+Navigate to https://ollama.com/download. Choose your Operating System.
+![image](https://github.com/BenjaminTanYuDa/Generative-AI-RAG-with-Llama2/assets/3131019/b49aa823-1d48-4e2b-8e70-3741c522e4f3)
+
+
 2. MongoDB Atlas (Database)
 
 3. Streamlit (Front-End)
