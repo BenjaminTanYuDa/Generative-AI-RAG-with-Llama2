@@ -13,5 +13,10 @@ Navigate to https://ollama.com/download. Choose your Operating System.
 
 
 2. MongoDB Atlas (Database)
+- Create MongoDB account
+- Go to MongoDB Atlas Search Tab
+  ![image](https://github.com/BenjaminTanYuDa/Generative-AI-RAG-with-Llama2/assets/3131019/51365289-53ad-4fe1-987f-85b9ff7d9583)
+- Create Vector Search Index to parse data in the collection of interest
+  ![image](https://github.com/BenjaminTanYuDa/Generative-AI-RAG-with-Llama2/assets/3131019/ad8857f0-d766-4532-8efc-c213fd0819b3)
 
 3. Streamlit (Front-End)
