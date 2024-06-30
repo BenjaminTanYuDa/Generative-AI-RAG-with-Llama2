@@ -1,1 +1,3 @@
-# rag-llama2
+# MongoDB Atlas
+rag-llama2
+
