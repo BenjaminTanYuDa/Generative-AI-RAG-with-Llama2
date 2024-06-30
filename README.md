@@ -2,7 +2,7 @@
 ![image](https://github.com/BenjaminTanYuDa/Generative-AI-RAG-with-Llama2/assets/3131019/dfc73731-ae23-4822-9171-5be8fc12fb24)
 
 # Retrieval Augmented Generation (RAG) Process
-![image](https://github.com/BenjaminTanYuDa/Generative-AI-RAG-with-Llama2/assets/3131019/3dcf8011-18da-4e53-adb4-c502dc7d0bca)
+![image](https://github.com/BenjaminTanYuDa/Generative-AI-RAG-with-Llama2/assets/3131019/8d7e16ef-cca6-4a41-b242-00ce2480d88f)
 
 # Technology needed for local LLM with RAG
 1. Ollama 
