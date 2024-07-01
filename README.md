@@ -1,4 +1,6 @@
-[![Watch the video]
+[![Watch the video](https://img.youtube.com/vi/AcxEAj41IYs/0.jpg)]
+(https://www.youtube.com/watch?v=AcxEAj41IYs)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AcxEAj41IYs?si=oIsAxu5DaWuLe2_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Technology Stack
