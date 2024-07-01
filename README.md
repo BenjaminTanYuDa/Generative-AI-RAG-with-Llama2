@@ -1,7 +1,8 @@
-[![Watch the video](https://img.youtube.com/vi/AcxEAj41IYs/0.jpg)]
-(https://www.youtube.com/watch?v=AcxEAj41IYs)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcxEAj41IYs?si=oIsAxu5DaWuLe2_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+https://github.com/BenjaminTanYuDa/Generative-AI-RAG-with-Llama2/assets/3131019/cc0bdfb5-ead3-4fec-8723-9bc83799694c
+
 
 # Technology Stack
 ![image](https://github.com/BenjaminTanYuDa/Generative-AI-RAG-with-Llama2/assets/3131019/dfc73731-ae23-4822-9171-5be8fc12fb24)
