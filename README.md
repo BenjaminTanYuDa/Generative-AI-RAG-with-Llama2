@@ -1,8 +1,5 @@
-
-
-
+# Video Demo
 https://github.com/BenjaminTanYuDa/Generative-AI-RAG-with-Llama2/assets/3131019/cc0bdfb5-ead3-4fec-8723-9bc83799694c
-
 
 # Technology Stack
 ![image](https://github.com/BenjaminTanYuDa/Generative-AI-RAG-with-Llama2/assets/3131019/dfc73731-ae23-4822-9171-5be8fc12fb24)
@@ -40,3 +37,4 @@ Navigate to https://ollama.com/download. Choose your Operating System.
 ```
 
 3. Streamlit (Front-End)
+https://docs.streamlit.io/get-started/installation
